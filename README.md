@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @kimvi
 - 👀 I’m interested in computational problems often at the intersection of hardware/software design
-- 🌱 I’m currently learning jekyll, python, basics of ML, intricacies of C++
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning C++, python, how to write `good' programs and deploy them in a large system
 - 📫 How to reach me 
 
 <!---
