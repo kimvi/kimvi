@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kimvi
+- 👋 Hi, I’m @vivek-iitb
 - 👀 I’m interested in computational problems often at the intersection of hardware/software design
 - 🌱 I’m currently learning C++, python, how to write `good' programs and deploy them in a large system
 - 📫 How to reach me 
